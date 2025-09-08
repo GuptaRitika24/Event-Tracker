@@ -40,7 +40,8 @@ Event-Tracker/
 │ ├── routes/ # API routes
 │ ├── server.js # Backend entry point
 │ └── .env # Local environment variables
-│
+
+
 │── frontend/ # React.js client
 │ ├── src/
 │ │ ├── components/
